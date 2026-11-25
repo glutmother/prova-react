@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-size: larger;
+}
+
+.imagem{
+    width: 300px;
+    display: inline-flex
+}
+
+.texto{
+    padding: 20px;
+    font-size: larger;
+}   
